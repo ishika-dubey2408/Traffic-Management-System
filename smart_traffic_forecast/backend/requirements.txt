@@ -11,3 +11,14 @@ python-decouple
 
 google-auth
 djangorestframework-simplejwt
+pandas
+numpy
+scikit-learn
+joblib
+matplotlib
+seaborn
+django
+djangorestframework
+fastapi
+uvicorn
+pydantic
