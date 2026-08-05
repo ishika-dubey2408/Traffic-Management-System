@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual Environment
+venv/
+
+# ML Model Files
+smart_traffic_forecast/backend/traffic_model/models/
+
+# OS Files
+.DS_Store
+Thumbs.dbs
